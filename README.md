@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, yo soy Jesus Ramirez</h1>
-<h3 align="center">Un apasionado desarrollador</h3>
+<h3 align="center">Una persona entusiasta de la tecnología</h3>
 
 
 <a href="https://fullfontj.github.io/web-portafolio/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Mi%20Portafolio-8A2BE2" alt="git" height="40"/></a> 
